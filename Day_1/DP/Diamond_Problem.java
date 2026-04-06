@@ -1,4 +1,4 @@
-package Day_1;
+package Day_1.DP;
 
 public class Diamond_Problem {
 	public static void main(String[] args) {
